@@ -2,9 +2,7 @@
 
 This basic Hello World program was written in Python to integrate together Visual Studio Code and Github.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Here is a [Video Demonstration](https://youtu.be/Fl6mzupDMmM) providing a walkthrough of version control between VS Code and GitHub.
 
 # Development Environment
 
